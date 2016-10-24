@@ -1,0 +1,177 @@
+http://www.tradingeconomics.com/country-list/manufacturing-pmi
+
+country: Australia
+last_value: 49.80
+last_update_time: Sep/16
+previous_value: 46.9
+highest_value: 62.13
+lowest_value: 30.86
+
+country: Brazil
+last_value: 46.00
+last_update_time: Sep/16
+previous_value: 45.7
+highest_value: 53.2
+lowest_value: 41.6
+
+country: China
+last_value: 50.10
+last_update_time: Sep/16
+previous_value: 50
+highest_value: 52.3
+lowest_value: 47.2
+
+country: Denmark
+last_value: 58.14
+last_update_time: Sep/16
+previous_value: 54.74
+highest_value: 70.58
+lowest_value: 24.83
+
+country: Euro Area
+last_value: 52.60
+last_update_time: Sep/16
+previous_value: 51.7
+highest_value: 59
+lowest_value: 33.5
+
+country: Germany
+last_value: 54.30
+last_update_time: Sep/16
+previous_value: 53.6
+highest_value: 62.7
+lowest_value: 32
+
+country: Hong Kong
+last_value: 49.30
+last_update_time: Sep/16
+previous_value: 49
+highest_value: 53.3
+lowest_value: 44.4
+
+country: India
+last_value: 52.10
+last_update_time: Sep/16
+previous_value: 52.6
+highest_value: 55
+lowest_value: 48.5
+
+country: Ireland
+last_value: 51.30
+last_update_time: Sep/16
+previous_value: 51.7
+highest_value: 57.5
+lowest_value: 48
+
+country: Italy
+last_value: 51.00
+last_update_time: Sep/16
+previous_value: 49.8
+highest_value: 55.6
+lowest_value: 48
+
+country: Kenya
+last_value: 53.50
+last_update_time: Sep/16
+previous_value: 53.5
+highest_value: 56.4
+lowest_value: 51.5
+
+country: Malaysia
+last_value: 48.60
+last_update_time: Sep/16
+previous_value: 47.4
+highest_value: 49.5
+lowest_value: 47
+
+country: Myanmar
+last_value: 48.10
+last_update_time: Sep/16
+previous_value: 47.2
+highest_value: 49.2
+lowest_value: 47.2
+
+country: New Zealand
+last_value: 57.69
+last_update_time: Sep/16
+previous_value: 55.19
+highest_value: 62.77
+lowest_value: 36.07
+
+country: Norway
+last_value: 52.60
+last_update_time: Sep/16
+previous_value: 50.3
+highest_value: 64.6
+lowest_value: 34.8
+
+country: Poland
+last_value: 52.20
+last_update_time: Sep/16
+previous_value: 51.5
+highest_value: 55.9
+lowest_value: 46.9
+
+country: Russia
+last_value: 51.10
+last_update_time: Sep/16
+previous_value: 50.8
+highest_value: 53.2
+lowest_value: 47.6
+
+country: Singapore
+last_value: 50.10
+last_update_time: Sep/16
+previous_value: 49.8
+highest_value: 51.9
+lowest_value: 48.3
+
+country: South Korea
+last_value: 47.60
+last_update_time: Sep/16
+previous_value: 48.6
+highest_value: 52.6
+lowest_value: 45.7
+
+country: Sri Lanka
+last_value: 57.70
+last_update_time: Sep/16
+previous_value: 53.5
+highest_value: 67.3
+lowest_value: 41.6
+
+country: Switzerland
+last_value: 53.20
+last_update_time: Sep/16
+previous_value: 51
+highest_value: 66
+lowest_value: 32.4
+
+country: Thailand
+last_value: 48.80
+last_update_time: Sep/16
+previous_value: 49.8
+highest_value: 49.8
+lowest_value: 48.8
+
+country: United Arab Emirates
+last_value: 54.10
+last_update_time: Sep/16
+previous_value: 54.7
+highest_value: 61.2
+lowest_value: 51.7
+
+country: United States
+last_value: 51.50
+last_update_time: Sep/16
+previous_value: 52
+highest_value: 57.9
+lowest_value: 50.7
+
+country: World
+last_value: 50.90
+last_update_time: Jan/16
+previous_value: 50.7
+highest_value: 52.8
+lowest_value: 50.2
+
