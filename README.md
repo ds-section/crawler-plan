@@ -1,5 +1,8 @@
 # Work Plan
 
+## [HS Code for Taiwan]http://db.wtocenter.org.tw/tariffHScode.asp
+> HS code 2, 4, 6 description for ITBD
+
 ## [Global Trade Alert](http://www.globaltradealert.org/)
 > 非關稅貿易壁壘資料庫
 
