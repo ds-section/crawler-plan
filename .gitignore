@@ -1,1 +1,7 @@
+# crawled files
 tmp/*.html
+country-info/flag-image/
+
+# mac files
+.DS_Store
+
