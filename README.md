@@ -1,5 +1,8 @@
 # Work Plan
 
+## [國家代碼 ISO 3166-1](https://zh.wikipedia.org/wiki/ISO_3166-1)
+> country_name -> contry_code
+
 ## [HS Code for Taiwan]http://db.wtocenter.org.tw/tariffHScode.asp
 > HS code 2, 4, 6 description for ITBD
 
