@@ -8,7 +8,7 @@ part 1. hscode_2, description, link
 
 # get all hs code list and link 
 r = requests.get('http://db.wtocenter.org.tw/tariffHScode.asp')
-r.encoding = 'big5'
+r.encoding = 'cp950'
 
 # parse 
 soup = BeautifulSoup(r.text, 'lxml')

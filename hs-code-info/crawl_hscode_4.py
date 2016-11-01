@@ -6,7 +6,7 @@ get all hscode_4 by urls in hscode2.csv
 def print_hscode_4_from_2(url_2):
 
     r = requests.get(url_2)
-    r.encoding = 'big5'
+    r.encoding = 'cp950'
     soup = BeautifulSoup(r.text, 'lxml')
     td_main_top = soup.find_all('td', class_='mainText', valign='top')
 
